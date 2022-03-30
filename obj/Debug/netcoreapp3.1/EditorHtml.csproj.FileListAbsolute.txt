@@ -1,0 +1,14 @@
+E:\dev\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.exe
+E:\dev\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.deps.json
+E:\dev\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.json
+E:\dev\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.dev.json
+E:\dev\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.dll
+E:\dev\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.pdb
+E:\dev\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.csproj.AssemblyReference.cache
+E:\dev\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfoInputs.cache
+E:\dev\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfo.cs
+E:\dev\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.csproj.CoreCompileInputs.cache
+E:\dev\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.dll
+E:\dev\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.pdb
+E:\dev\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.genruntimeconfig.cache
